@@ -31,6 +31,6 @@ Asp .net Core MVC
 
 
 ## Team-Members and Contribution 
-PRAJAPATI MEET B. - Admin management (CRUD operation of the product and category)
-PATEL KUNJAN N.   - Login and Register and UI design
-PATEL DEEP U.     - Customer functinality of wholesale book marketing and generate a bill.   
+1. PRAJAPATI MEET B. - Admin management (CRUD operation of the product and category)
+2. PATEL KUNJAN N.   - Login and Register and UI design
+3. PATEL DEEP U.     - Customer functinality of wholesale book marketing and generate a bill.   
