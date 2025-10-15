@@ -28,3 +28,10 @@ Asp .net Core MVC
 3. Update the database by running the command update-database
 
 4. run the project with/without debugging.
+
+
+##Team Members And Contribution 
+PRAJAPATI MEET B. - Admin management (CRUD operation of the product and category)
+PATEL KUNJAN N.   - Login and Register and UI design
+PATEL DEEP U.     - Customer functinality of wholesale book marketing and generate a bill.   
+
